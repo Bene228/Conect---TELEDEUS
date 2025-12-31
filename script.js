@@ -11,4 +11,4 @@ faqItems.forEach(item => {
     item.classList.add('open')
    }
   })
-})
+});
